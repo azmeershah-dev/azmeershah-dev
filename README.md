@@ -43,3 +43,12 @@
 - [GitHub](https://github.com/azmeershah-dev)  
 - [Portfolio](https://azmeerpersonalportfolio.vercel.app)  
 - 📧 **Email:** azmeershah.dev@gmail.com  
+
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=azmeershah-dev&show_icons=true&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=azmeershah-dev&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmeershah-dev&layout=compact&theme=tokyonight)  
